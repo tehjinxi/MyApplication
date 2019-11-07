@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="car_price">Enter your car price</string>
+    <string name="view_price">Car Price</string>
+    <string name="button">Calculate</string>
+    <string name="view_down_pay">Down Payment</string>
+    <string name="edit_down_pay">Enter your down payment</string>
+    <string name="view_loan_period">Loan Period</string>
+    <string name="edit_loan_period">Enter your loan period</string>
+    <string name="view_interest">Interest Rate</string>
+    <string name="edit_interest">Enter your interest rate</string>
+</resources>
